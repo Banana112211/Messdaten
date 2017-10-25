@@ -1,0 +1,7 @@
+"Input";"Wdth";"hight";"Timestamp";"Number";"Date";"Key"
+Kamera 2; videowdth 1280; videohight 960; 1508922673.29; Nummer 0; ;queue
+Kamera 2; videowdth 1280; videohight 960; 1508922673.35; Nummer 1; ;queue
+Kamera 2; videowdth 1280; videohight 960; 1508922673.41; Nummer 2; ;queue
+Kamera 2; videowdth 1280; videohight 960; 1508922673.47; Nummer 3; ;queue
+Kamera 2; videowdth 1280; videohight 960; 1508922673.52; Nummer 4; ;queue
+, 0.273087978363 seconds, 5 num_frames, 18.3091179259 fps
